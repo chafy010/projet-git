@@ -1,0 +1,50 @@
+
+#titre{
+    color: brown;
+    border:solid 2px red;
+    margin: 10px;
+    padding: 10px;
+} 
+.entete {
+color: blue;
+}
+nav ul li {
+    display: inline-block;
+    width: 220px;text-decoration-line: ;
+    height: 25px; ;
+}
+.point{
+    color: brown;
+    margin: 4px;
+}
+#phrase{
+ color: black;   
+}
+section form :only-of-type {
+display: inline-block;
+border: solid 2px red
+}
+.entete{
+    color: brown;
+}
+
+
+h4{
+    text-align: center;
+    color: brown;
+}
+h3,footer{
+    color: blue;
+    font-family:roboto ;
+}
+p{
+    color: black;
+    text-wrap:3px; 
+}
+h1,h2,h3,h0,p,section,nav,ul,li{
+    display:block;
+    margin:10px;
+}
+
+
+     
